@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Changelog
+All notable changes to this project will be documented in this file.
 
-You can use the [editor on GitHub](https://github.com/ktisoftware/changelog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## [Released]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [1.0.13] - 31-07-2020
+### Added
+- New visual identity by [@tylerfortune8](https://github.com/tylerfortune8).
+- Version navigation.
 
-### Markdown
+### Changed
+- Start using "changelog" over "change log" since it's the common usage.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Removed
+- Section about "changelog" vs "CHANGELOG".
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ktisoftware/changelog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Fixed
+- Fix typos in recent README changes.
+- Update outdated unreleased diff link.
